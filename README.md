@@ -4,8 +4,6 @@
  
 
 </p>
-
-
 <h1 align="center">Hi 👋, I'm Jay Vijay Pawar</h1>
 <p align="center">
 <strong ><a href="https://Jay-Pawar.github.io/my_resume/" rel="nofollow">Portfolio<g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">🌐</g-emoji></a></strong></p>
