@@ -2,7 +2,6 @@
 ### Here is what I'm Searching Job on  Full-Stack-Developer 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-pawar&label=Profile%20views&color=0e75b6&style=flat" alt="jay-pawar" />
  
-
 </p>
 <h1 align="center">Hi 👋, I'm Jay Vijay Pawar</h1>
 <p align="center">
