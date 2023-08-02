@@ -16,7 +16,7 @@
 
 📫 As someone who is always passionate for learning more about tech and life. I am unstopped learner. I have evolved into a Full Stack Developer career path, and loves working with cutting edge tools and technologies.
  </p>
-- 🔭 I’m currently working on **React-Native**
+- 🔭 I’m currently working on **.Net Full Stack Developer**
 
 - 🌱 I’m currently learning **Django, Spring boot, .NET 5**
 
