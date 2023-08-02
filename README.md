@@ -18,7 +18,7 @@
  </p>
 - 🔭 I’m currently working on **.Net Full Stack Developer**
 
-- 🌱 I’m currently learning **Django, Spring boot, .NET 5**
+- 🌱 I’m currently learning **Django, Spring boot**
 
 - 👯 I’m looking to collaborate on **Java**
 
